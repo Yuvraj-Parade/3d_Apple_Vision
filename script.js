@@ -1,3 +1,4 @@
+let var = 3;
 function loco(){
     gsap.registerPlugin(ScrollTrigger);
 
